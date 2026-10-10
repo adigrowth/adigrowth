@@ -2,7 +2,7 @@
 
 ### Pharma × Digital × AI — building growth systems for health brands
 
-I work in **digital initiatives** in the pharmaceutical & nutraceutical industry, focused on D2C brands and e-commerce. My background is a dual **B.Pharm + MBA** (NMIMS), so I sit between science, consumers, and technology.
+I work in **digital initiatives** in the pharmaceutical & nutraceutical industry, focused on D2C brands and e-commerce. I sit between science, consumers, and technology.
 
 I'm not a software engineer. I'm a marketer who builds: I use AI and automation to turn repetitive work into systems, and I document everything so it can be reused.
 
