@@ -10,7 +10,7 @@ I'm not a software engineer. I'm a marketer who builds: I use AI and automation 
 
 | Project | What it does | Built with | Status |
 |---|---|---|---|
-| **Idea Catcher** | Captures voice notes on walks and turns them into searchable, transcribed ideas. Rebuilt across versions to fix mic access, sync, and duplicate transcription | Python, Whisper | Publishing soon |
+| **[Idea Catcher](https://github.com/adigrowth/idea-catcher)** | Turns voice notes recorded on walks into scored, actionable ideas in Notion. Rebuilt from a browser app into a local Python pipeline that never processes a note twice | Python, Whisper, Claude, Notion | ✅ Live (v0.1) |
 | **Personal finance dashboard** | Turns raw UPI transaction exports into a spending dashboard (demo uses synthetic data) | Python, data viz | Publishing soon |
 | **Healthcare prompt library** | Tested, documented prompts for health content, insight synthesis, and SEO briefs, each with known failure modes | Markdown, Claude | Planned |
 
